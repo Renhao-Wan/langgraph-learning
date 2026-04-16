@@ -2,6 +2,7 @@
 /shelf/
 /.idea
 /.venv
+/.env
 # 基于编辑器的 HTTP 客户端请求
 /httpRequests/
 # 已忽略包含查询文件的默认文件夹
