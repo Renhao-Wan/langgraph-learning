@@ -3,6 +3,12 @@
 /.idea
 /.venv
 /.env
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+/data/
+
 # 基于编辑器的 HTTP 客户端请求
 /httpRequests/
 # 已忽略包含查询文件的默认文件夹
